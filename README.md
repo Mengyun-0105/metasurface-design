@@ -9,3 +9,4 @@ Tasks:
 1) Build desired MEEP simulation script
 2) Build neural network 
 3) Train and test network
+4) new folk by mw
